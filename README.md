@@ -21,19 +21,6 @@
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 </p>
----
-
-### 📂 Featured Projects
-*🤖 dynamic projects will be pinned here soon!*
-- **[Project Name 1]** - Short description of your school project (Java/C#) *— (Coming soon)*
-- **[Project Name 2]** - Short description of your web project (HTML/CSS/JS) *— (Coming soon)*
-
----
-
-### 💬 Coding Quote of the Day
-<p align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?theme=gruvbox" alt="Programming Quote" />
-</p>
 
 ---
 
