@@ -5,9 +5,10 @@
 </p>
 
 ### 🎓 About Me
-- 🏫 Currently studying Software Engineering at **FPT University**.
-- 💻 Passionate about software development, problem-solving, and exploring new technologies.
-- 📫 Reach out to me via Email: **phanvankhai02102004@gmail.com**
+- 🏫 **Education:** Software Engineering Student at **FPT University** (Class of 2022 - 2026).
+- 🎯 **Focus:** Passionate about Full-Stack Web Development and Software Architecture.
+- 🚀 **Goal:** Looking for opportunities to learn, contribute to open-source projects, and secure a software engineering internship.
+- 📫 **Contact:** [phanvankhai02102004@gmail.com](mailto:phanvankhai02102004@gmail.com)
 
 ---
 
@@ -19,6 +20,13 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
+
+---
+
+### 📂 Featured Projects
+*🤖 dynamic projects will be pinned here soon!*
+- **[Project Name 1]** - Short description of your school project (Java/C#) *— (Coming soon)*
+- **[Project Name 2]** - Short description of your web project (HTML/CSS/JS) *— (Coming soon)*
 
 ---
 
