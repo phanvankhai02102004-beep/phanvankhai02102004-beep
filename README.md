@@ -22,19 +22,14 @@
 
 ---
 
-### 📊 GitHub Analytics
-
+### 💬 Coding Quote of the Day
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phanvankhai02102004-beep&show_icons=true&theme=orange&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanvankhai02102004-beep&layout=compact&theme=orange" alt="Top Languages" />
+  <img src="https://github-readme-quotes.vercel.app/api?theme=gruvbox" alt="Programming Quote" />
 </p>
 
 ---
 
-### 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghvc/?username=phanvankhai02102004-beep&color=orange&style=flat-square" alt="Visitor Count" />
+### ⚙️ GitHub Status
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanvankhai02102004-beep&theme=github-light&bg_color=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
